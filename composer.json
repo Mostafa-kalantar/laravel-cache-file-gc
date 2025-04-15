@@ -17,5 +17,6 @@
             "name": "kalantar",
             "email": "m.mastersoft@gmail.com"
         }
-    ]
+    ],
+	"minimum-stability": "dev",
 }
