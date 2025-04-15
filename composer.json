@@ -1,7 +1,10 @@
 {
     "name": "meph/laravel-file-cache-gc",
     "type": "composer-plugin",
-    "require": [],
+    "require": {
+        "illuminate/support": "8.*|9.*|10.*|^11.0|^12.0",
+        "php": ">=7.1.0"
+    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
