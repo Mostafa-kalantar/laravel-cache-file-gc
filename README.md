@@ -1,2 +1,2 @@
-# laravel-file-garbage-collector
-Clear old cache files with command
+# laravel-cache-file-gc
+Laravel Cache File Garbage Collector: Clear old cache files and folders with command
